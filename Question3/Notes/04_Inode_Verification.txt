@@ -1,0 +1,5 @@
+Command:
+Get-Item sample_data.txt, sample_hard.txt | Format-List Name, Id
+
+Explanation:
+I displayed the file record identifiers to analyze how Windows tracks files similarly to inode numbers in Linux.

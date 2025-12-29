@@ -1,0 +1,5 @@
+Command:
+Get-ChildItem ~ -File | Select-Object Name, @{Name="Size(KB)";Expression={$_.Length / 1KB}}
+
+Explanation:
+This command displays each file in the home directory along with its size in kilobytes.

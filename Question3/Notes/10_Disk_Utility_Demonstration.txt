@@ -1,0 +1,6 @@
+Command:
+Get-PSDrive
+Get-Volume
+
+Explanation:
+These commands display disk usage, free space, and filesystem details, similar to the du and df commands in Linux.

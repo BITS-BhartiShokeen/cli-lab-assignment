@@ -1,0 +1,5 @@
+Command:
+echo "This is sample data for link testing." > sample_data.txt
+
+Explanation:
+I created a file named sample_data.txt in my home directory and added sample text to demonstrate file creation.

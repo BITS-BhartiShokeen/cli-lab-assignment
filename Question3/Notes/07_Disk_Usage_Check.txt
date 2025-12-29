@@ -1,0 +1,5 @@
+Command:
+Get-ChildItem ~ -Recurse | Measure-Object -Property Length -Sum
+
+Explanation:
+This command calculates the total disk space used by files in my home directory.

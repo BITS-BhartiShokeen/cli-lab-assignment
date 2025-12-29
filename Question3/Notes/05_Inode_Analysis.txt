@@ -1,0 +1,2 @@
+Explanation:
+sample_data.txt and sample_hard.txt share the same file identifier because hard links reference the same underlying file data. Symbolic links point to a file path instead and do not share the same inode or file record.

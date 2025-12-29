@@ -1,0 +1,5 @@
+Command:
+New-Item -ItemType HardLink -Path sample_hard.txt -Target sample_data.txt
+
+Explanation:
+I created a hard link named sample_hard.txt that points to the same underlying file data as sample_data.txt.

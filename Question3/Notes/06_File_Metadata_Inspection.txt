@@ -1,0 +1,5 @@
+Command:
+Get-Item sample_data.txt | Format-List *
+
+Explanation:
+This command displays detailed metadata including file permissions, ownership, size, and timestamps.

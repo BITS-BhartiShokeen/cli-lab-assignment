@@ -1,0 +1,5 @@
+Command:
+New-Item -ItemType SymbolicLink -Path sample_soft.txt -Target sample_data.txt
+
+Explanation:
+I attempted to create a symbolic link to sample_data.txt. On Windows systems, creating symbolic links requires administrator privileges or developer mode. The command failed due to insufficient permissions, which demonstrates that symbolic links are handled differently from hard links.

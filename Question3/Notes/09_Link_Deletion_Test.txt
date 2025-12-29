@@ -1,0 +1,5 @@
+Command:
+Remove-Item sample_soft.txt
+
+Explanation:
+The symbolic link sample_soft.txt could not be created earlier due to Windows permission restrictions requiring administrator privileges. Therefore, attempting to delete it results in a "file not found" message. The original file sample_data.txt remains unaffected, demonstrating that symbolic links do not impact the original file.
