@@ -1,9 +1,0 @@
-Command:
-net statistics workstation
-
-Explanation:
-This command shows system uptime information, including how long
-the system has been running since the last restart.
-
-Screenshot:
-q1_10_uptime.png
