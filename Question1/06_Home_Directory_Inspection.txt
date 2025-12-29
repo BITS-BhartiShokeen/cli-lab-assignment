@@ -1,9 +1,0 @@
-Command:
-ls ~
-
-Explanation:
-The ls ~ command lists the contents of the user's home directory,
-sorted alphabetically by default.
-
-Screenshot:
-q1_06_home_directory.png
