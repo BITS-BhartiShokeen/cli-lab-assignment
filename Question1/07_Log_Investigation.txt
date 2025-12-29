@@ -1,9 +1,0 @@
-Command:
-Select-String "admin" log.txt
-
-Explanation:
-I used the Select-String command to search for the word "admin"
-inside the log.txt file and display matching lines.
-
-Screenshot:
-q1_07_log_search.png
