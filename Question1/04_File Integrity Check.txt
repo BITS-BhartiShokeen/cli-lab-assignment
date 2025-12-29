@@ -1,0 +1,9 @@
+Command:
+(Get-Content user_info.txt | Measure-Object -Character).Characters
+
+Explanation:
+This command counts and displays the number of characters present
+in the user_info.txt file.
+
+Screenshot:
+q1_04_character_count.png

@@ -1,0 +1,9 @@
+Command:
+ping www.google.com
+
+Explanation:
+The ping command was used to verify network connectivity
+by sending ICMP packets to www.google.com.
+
+Screenshot:
+q1_09_ping_test.png

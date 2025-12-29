@@ -1,0 +1,10 @@
+Command:
+whoami
+whoami /groups
+
+Explanation:
+I used the whoami command to display my currently logged-in username.
+I used whoami /groups to list all the groups that my user account belongs to.
+
+Screenshot:
+q1_01_user_identity.jpg
