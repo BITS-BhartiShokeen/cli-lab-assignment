@@ -1,0 +1,10 @@
+Command:
+pwd
+ls
+
+Explanation:
+The pwd command displays the current working directory.
+The ls command lists all files and directories in the current location.
+
+Screenshot:
+q1_02_workspace_validation.png

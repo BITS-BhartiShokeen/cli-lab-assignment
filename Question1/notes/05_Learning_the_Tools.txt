@@ -1,0 +1,9 @@
+Command:
+Get-Help mkdir
+
+Explanation:
+I accessed the help documentation for the mkdir command.
+The mkdir command is used to create new directories in the filesystem.
+
+Screenshot:
+q1_05_mkdir_help.png
