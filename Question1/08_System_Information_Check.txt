@@ -1,9 +1,0 @@
-Command:
-systeminfo | Select-String "OS Version"
-
-Explanation:
-This command displays the operating system version
-currently running on the system.
-
-Screenshot:
-q1_08_system_version.png
