@@ -1,0 +1,5 @@
+Command:
+mkdir archive
+
+Explanation:
+I created a subdirectory named archive inside project_documents to store archived files.

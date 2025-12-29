@@ -1,0 +1,5 @@
+Command:
+Get-ChildItem -Recurse archive
+
+Explanation:
+I used a recursive directory listing to display all files and subdirectories inside the archive directory and confirm that plan_copy.txt is stored correctly.

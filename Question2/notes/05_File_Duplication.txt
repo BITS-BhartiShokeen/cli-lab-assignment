@@ -1,0 +1,5 @@
+Command:
+Copy-Item plan.txt plan_copy.txt
+
+Explanation:
+I created a duplicate of plan.txt named plan_copy.txt using the Copy-Item command.

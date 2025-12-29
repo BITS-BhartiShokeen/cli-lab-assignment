@@ -1,0 +1,5 @@
+Command:
+Rename-Item documents project_documents
+
+Explanation:
+I renamed the documents directory to project_documents using the Rename-Item command to better reflect the project scope.

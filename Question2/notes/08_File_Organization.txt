@@ -1,0 +1,5 @@
+Command:
+Move-Item plan_copy.txt archive\
+
+Explanation:
+I moved the plan_copy.txt file into the archive subdirectory to organize project files.

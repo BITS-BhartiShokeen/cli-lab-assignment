@@ -1,0 +1,6 @@
+Command:
+cd documents
+New-Item plan.txt
+
+Explanation:
+I navigated into the documents directory and created a new file named plan.txt to store project-related notes.

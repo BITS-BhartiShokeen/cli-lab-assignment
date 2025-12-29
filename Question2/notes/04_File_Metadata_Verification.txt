@@ -1,0 +1,5 @@
+Command:
+Get-Acl plan.txt
+
+Explanation:
+I used the Get-Acl command to display the permissions and ownership details of the plan.txt file. The output shows my username as the file owner.

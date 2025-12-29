@@ -1,0 +1,6 @@
+Command:
+echo "This is a sample project plan reminder." > plan.txt
+type plan.txt
+
+Explanation:
+I added sample text to the plan.txt file using the echo command and verified the content by displaying the file contents.

@@ -1,0 +1,5 @@
+Command:
+mkdir documents
+
+Explanation:
+The documents directory already existed from earlier work, which confirms successful directory creation.
