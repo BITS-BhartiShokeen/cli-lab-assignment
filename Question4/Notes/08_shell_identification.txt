@@ -1,0 +1,5 @@
+Command:
+$Host.Name
+
+Explanation:
+This command displays the name of the shell host currently in use. The output confirms that PowerShell is being used as the command-line shell.

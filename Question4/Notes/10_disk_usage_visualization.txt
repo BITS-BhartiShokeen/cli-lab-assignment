@@ -1,0 +1,5 @@
+Command:
+Get-ChildItem ~ | Measure-Object Length -Sum
+
+Explanation:
+On Linux systems, the ncdu command provides interactive disk usage visualization. Since ncdu is not available in PowerShell, this command demonstrates disk usage analysis by calculating total file sizes.

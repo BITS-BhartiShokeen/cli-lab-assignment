@@ -1,0 +1,6 @@
+Command:
+Get-PSDrive C
+
+Explanation:
+This command shows disk usage details for the filesystem containing the home directory.
+

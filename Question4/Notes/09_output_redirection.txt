@@ -1,0 +1,5 @@
+Command:
+systeminfo > system_report.txt
+
+Explanation:
+This command redirects system information output into a file named system_report.txt.

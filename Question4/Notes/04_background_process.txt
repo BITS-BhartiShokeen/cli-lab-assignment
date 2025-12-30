@@ -1,0 +1,6 @@
+Command:
+Start-Job { Get-Date; Start-Sleep 60 }
+Get-Job
+
+Explanation:
+A background job was started and verified to be running.

@@ -1,0 +1,5 @@
+Command:
+Get-Process notepad | Select-Object Name, PriorityClass
+
+Explanation:
+This command displays the priority level of the Notepad process, demonstrating process priority management.

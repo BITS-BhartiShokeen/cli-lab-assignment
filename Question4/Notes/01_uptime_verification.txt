@@ -1,0 +1,6 @@
+Command:
+systeminfo | Select-String "System Boot Time"
+
+Explanation:
+This command displays the system boot time, which indicates how long the system has been running.
+

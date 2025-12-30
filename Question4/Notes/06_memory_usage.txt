@@ -1,0 +1,6 @@
+Command:
+Get-CimInstance Win32_OperatingSystem | Select-Object TotalVisibleMemorySize, FreePhysicalMemory
+
+Explanation:
+This command displays system memory usage information.
+

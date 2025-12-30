@@ -1,0 +1,5 @@
+Command:
+Get-Process | Select-Object -First 15
+
+Explanation:
+This command lists processes running under the current user session. The output is limited for clarity.

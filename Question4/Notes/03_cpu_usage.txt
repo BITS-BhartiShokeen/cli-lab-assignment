@@ -1,0 +1,5 @@
+Command:
+Get-Process | Sort-Object CPU -Descending | Select-Object -First 5
+
+Explanation:
+This command identifies the processes consuming the highest CPU resources.
